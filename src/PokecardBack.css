@@ -1,0 +1,28 @@
+.PokecardBack {
+  border: 2px solid rgb(0,58,112);
+  border-radius: 3px;
+  width: 300px;
+  height: 411.875px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 7px 10px 12px -5px rgba(0,0,0,.56);
+  text-align: center;
+  background-color: rgb(255,203,5)
+}
+
+.PokecardBack h1 {
+  color: rgb(0,58,112);
+  margin: 0
+}
+
+.PokecardBack button {
+  border: 2px solid rgb(0,58,112);
+  border-radius: 3px;
+  padding: 5px 10px;
+  color: rgb(0,58,112)
+}
+
+.PokecardBack span {
+  text-transform: capitalize;
+  font-weight: bold
+}
